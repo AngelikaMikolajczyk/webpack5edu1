@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Redressed';
+    font-weight: 400;
+    src: url('./assets/fonts/Redressed-Regular.ttf') format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Robo';
+    src: url('./assets/fonts/Roboto-Light.ttf') format('ttf');
+}
+
+.header{
+    text-decoration: underline;
+    color: slateblue;
+    font-family: Redressed;
+}
+
+.button{
+    background-color: darkkhaki;
+}
